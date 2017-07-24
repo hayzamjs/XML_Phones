@@ -1,0 +1,7 @@
+{
+    "name": "XML_Phones",
+    "description": "XML configurator for IP Phones",
+    "repository": "https://github.com/hayzamjs/XML_Phones",
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "keywords": ["PHP", "vanilla", "telephony"]
+}
