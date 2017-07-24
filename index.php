@@ -31,7 +31,7 @@ else{
     </select>
     </div>
     <br><br>
-    <input type="text" class="button" id="macID" name="macID" placeholder="Mac Address, Example:- 001D70FB1A2D" onblur="ifMacExists()">
+    <input type="text" class="button" id="macID" name="macID" placeholder="Mac Address, Example:- 001D70FB1A2D" oninput="ifMacExists()">
     <br><br>
     <input type="text" class="button" id="name" name="name" placeholder="Name, Example:- Arthur Allen">
 		<br><br>
