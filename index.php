@@ -1,7 +1,7 @@
 <?php
 if(isset($_GET['alert']) == 1)
 {
-    echo '<script>alert("Phone added!")</script>'
+    echo '<script>alert("Phone added!")</script>';
 }
 else{
 
