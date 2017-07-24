@@ -28,8 +28,8 @@ $leza2=simplexml_load_file($filename);
   $leza2->sipProfile[0]->sipLines[0]->line[0]->authPassword = $password;
   $leza2->sipProfile[0]->sipLines[0]->line[0]->contact = $extension;
 
-header("location: index.php?alert=1")
-$leza2->asXML($filename);
 
+$leza2->asXML($filename);
+header("location: index.php?alert=1");
 
  ?>
