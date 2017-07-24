@@ -13,7 +13,7 @@ else{
     <script src="js/app.js"></script>
     <title>XML Configurator</title>
     <link rel="stylesheet" href="css/style.css">
-    <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
   </head>
   <body>
       <div class="header">
