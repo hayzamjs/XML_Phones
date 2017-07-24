@@ -1,4 +1,13 @@
+<?php
+if(isset($_GET['alert']) == 1)
+{
+    echo '<script>alert("Phone added!")</script>'
+}
+else{
 
+  //DONOT DO ANYTHING
+}
+ ?>
 <html>
   <head>
     <script src="js/app.js"></script>
